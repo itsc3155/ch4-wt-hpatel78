@@ -41,6 +41,8 @@ class MoviesController < ApplicationController
         
     end
     
+    # dummy number 4
+    
     def update
         @movie = Movie.find params[:id]
         #@movie.update_attributes!(params[:movie])  # old way
