@@ -66,6 +66,8 @@ class MoviesController < ApplicationController
         
     end
     
+    # another something for dummy commit
+    
     # add below all other methods
     private
     
